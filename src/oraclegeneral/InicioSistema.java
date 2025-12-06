@@ -11,7 +11,7 @@ import views.Login;
  * utilizara a lo largo de la ejecucion.
  * @author Erik David Zubia Hernandez.
  * @since 16/05/2015
- * @version 1.0
+ * @version 2.0
  */
 public class InicioSistema {
     

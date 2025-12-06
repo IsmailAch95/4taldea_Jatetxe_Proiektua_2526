@@ -10,7 +10,7 @@ import views.Login;
  * Clase que iniciara el sistema y verificara la existencia del usuario de la base de datos que se 
  * utilizara a lo largo de la ejecucion.
  * @author Erik David Zubia Hernandez.
- * @since 16/05/2015
+ * @since 06/12/2025
  * @version 2.0
  */
 public class InicioSistema {

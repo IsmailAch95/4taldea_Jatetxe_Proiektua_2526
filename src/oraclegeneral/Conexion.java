@@ -1,7 +1,6 @@
 package oraclegeneral;
 
-import java.io.BufferedReader;
-import java.io.File;
+import java.io.BufferedReader import java.io.File;
 import java.io.FileReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -18,7 +17,7 @@ import javax.swing.JOptionPane;
  *
  * @author Erik David Zubia Hernandez
  * @version 1.0
- * @since 15/05/2015
+ * @since 15/05/2025
  */
 public class Conexion {
 
